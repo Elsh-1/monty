@@ -8,6 +8,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <ctype.h>
 
 /**
  * struct var_s - struct to contain the main variables of the Monty interpreter
