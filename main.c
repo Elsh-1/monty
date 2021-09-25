@@ -1,4 +1,6 @@
 #include "monty.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 /* global struct to hold flag for queue and stack length */
 var_t var;
